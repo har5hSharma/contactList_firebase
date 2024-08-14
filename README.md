@@ -1,4 +1,8 @@
-![WhatsApp Image 2024-08-14 at 15 37 50_863e6d93](https://github.com/user-attachments/assets/a260802e-838f-46d4-80b8-ad714214e91e)The contact-saving app leverages Firebase as the backend for data storage and management.Firebase's real-time database provides seamless synchronization of contact data,
+![WhatsApp Image 2024-08-14 at 15 37 50_863e6d93](https://github.com/user-attachments/assets/a260802e-838f-46d4-80b8-ad714214e91e)![WhatsApp Image 2024-08-14 at 15 37 51_03e26560](https://github.com/user-attachments/assets/494b5578-369f-4a2f-896f-8cce0e0f885f)![WhatsApp Image 2024-08-14 at 15 37 51_7e6b240a](https://github.com/user-attachments/assets/06694d42-5301-4136-9796-78a4fe878c97)![WhatsApp Image 2024-08-14 at 15 37 50_496b91be](https://github.com/user-attachments/assets/9f4b5e57-9fb9-44e7-bed4-8fce91a20119)
+
+
+
+The contact-saving app leverages Firebase as the backend for data storage and management.Firebase's real-time database provides seamless synchronization of contact data,
 enabling users to perform CRUD (Create, Read, Update, Delete) operations with ease. The app architecture follows the Model-View-Controller (MVC) pattern, ensuring a
 clean separation of concerns.
 Key Features and Technical Details:
